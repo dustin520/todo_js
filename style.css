@@ -1,0 +1,27 @@
+body {
+	background-color: lightyellow;
+}
+
+h1 { 
+	text-align: center;
+}
+
+h2 { 
+	text-align: center;
+}
+
+legend {
+	font-weight: bold;
+}
+
+#taskList {
+	text-align: center;
+	width: 300px;
+	height: 2em;
+}
+
+#addItem { 
+	// trying to center button but not working
+	text-align: center;
+}
+
